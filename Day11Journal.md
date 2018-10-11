@@ -2,7 +2,7 @@
 
 **Prompt**
 
-For this journal entry, no specific prompt other than to start off with "Today I learned..." or "Recently I learned..." and go from there.
+_For this journal entry, no specific prompt other than to start off with "Today I learned..." or "Recently I learned..." and go from there._
 
 **Response**
 
